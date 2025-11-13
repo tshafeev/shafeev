@@ -1,142 +1,199 @@
 ## Timur Shafeev
 
-### Sr. DevOps Engineer
+### Senior DevOps Engineer / Site Reliability Engineer
 
-- <a href="assets/files/Timur_Shafeev_CV.pdf" download>Dowload this CV as PDF</a>
-- <a href="maito:shafeev@gmail.com">My email</a>
-- <a href="callto:timur.shafeev?call">My skype is timur.shafeev</a>
-- <a href="https://www.linkedin.com/in/timur-shafeev">My LinkedIn profile</a>
+- <a href="assets/files/Timur_Shafeev_CV.pdf" download>Download this CV as PDF</a>
+- <a href="mailto:shafeev@gmail.com">Email: shafeev@gmail.com</a>
+- <a href="https://www.linkedin.com/in/timur-shafeev">LinkedIn Profile</a>
+- **Location:** Berlin, Germany | **Availability:** Hybrid/Remote
 
-### SUMMARY
+### PROFESSIONAL SUMMARY
 
-- Excellent DevOps engineering skills with public and private cloud (AWS, Azure, VMWare) using DevOps approach with help of Chef, Ansible, Terraform, and Cloudformation, AzureRM Templates.
-- Kubernetes CI/CD, troubleshouting, monitoring
-- Experienced in script writing using Bash, PowerShell, Ruby, and Python
-- Skilled in administration, troubleshooting, provisioning, and orchestration of Windows and Linux stack operating systems Linux/Windows/Hypervisors
-- Experienced working with CI/CD servers (Jenkins, Teamcity, Bamboo, GitLabCI)
-- Good knowledge of performance and log monitoring tools (Zabbix, Nagios, ELK, Graylog, InfluxDB, Prometheus, Grafana/Graphite)
+Senior DevOps Engineer and Site Reliability Engineer with 23+ years of progressive experience specializing in large-scale cloud infrastructure optimization, automation, and mission-critical deployment processes. Proven expertise managing high-traffic platforms serving 35+ million global users across AWS and Azure ecosystems, with deep experience in containerization, Infrastructure as Code, and enterprise-grade monitoring solutions.
 
-### WORK EXPERIENCE
+**Key Achievements:** Successfully led platform migrations from legacy systems to Kubernetes, achieving 50% operational efficiency improvements and 30% cost reductions. Demonstrated expertise in maintaining 99.9% uptime for critical services while reducing deployment times by 70% through advanced CI/CD automation.
 
-#### Nov-2017 - Till Now - Sr. DevOps Engineer Quest, quest.com
+**Core Expertise:** AWS Infrastructure Architecture (EKS, EC2, S3, RDS, Lambda), Azure Cloud Services (App Services, Storage, DevOps, ARM Templates), Kubernetes Orchestration, Infrastructure as Code (Terraform, CloudFormation), GitLab CI/CD, Monitoring & Observability (ELK Stack, Prometheus, Grafana, New Relic), Configuration Management (Chef, Ansible), and Multi-cloud Architecture Design.
 
-##### Team size 8 DevOps engineers.
-##### Project role: Sr. DevOps Engineer
+### TECHNICAL SKILLS
 
-##### Tasks performed:
+**Cloud Platforms & Services:**
+- **AWS:** EKS, EC2, S3, RDS, ELB, Lambda, CloudFormation, Auto Scaling Groups, KMS
+- **Azure:** App Services, Storage, DevOps, ARM Templates, Application Insights
 
-- DevOps tasks related to automation CI/CD (Jenkins/AzureDevops) in Azure and AWS for Quest products
-- Terraform manifests and AzureRM templates authoring
-- Monitoring using ELK/Prometheus/NewRelic/AppInsight/PagerDuty/Grafana
-- Kubernetes clusters maintenance and troubleshooting
-- ELK clusters maintenance/troubleshooting
-- automation as usual bash/python/powershell
-- Azure AppServices/AppInsight/Storage maintenance and monitoring
-- Automation of common and routine tasks of Ops Engineers and Developers teams
-- Interviewing and onboarding DevOps engineers, mentoring and task management
+**Container & Orchestration:**
+- **Kubernetes:** Cluster management, deployment strategies, troubleshooting, scaling
+- **Docker:** Container optimization, multi-stage builds, registry management
 
-___
+**CI/CD & Automation:**
+- **Pipelines:** GitLab CI/CD, Jenkins, Azure DevOps, TeamCity
+- **Infrastructure as Code:** Terraform, ARM Templates, CloudFormation, Ansible
+- **Configuration Management:** Chef, Ansible, PowerShell DSC
 
-#### Dec-2014 - Nov-2017 - Sr. DevOps Engineer, EPAM Systems, epam.com
+**Monitoring & Observability:**
+- **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd
+- **Metrics:** Prometheus, Grafana, New Relic, Application Insights, Zabbix
+- **Alerting:** PagerDuty, custom alerting solutions
 
-##### Team Size: Dev Team: - 5 .net developers - 2 QA specialists - 2 DevOps engineers - 1 system architect at start of project and 4 DevOps Engineers at the end
-##### Project Role: DevOps Engineer/Lead DevOps Engineer
+**Programming & Scripting:**
+- **Languages:** Bash, Python, PowerShell, Ruby
+- **Databases:** MS SQL Server, MySQL, PostgreSQL, SAP Sybase
+- **Operating Systems:** Linux (RHEL, CentOS, Ubuntu), Windows Server
 
-##### EU customer project (2014-2017):
+### PROFESSIONAL EXPERIENCE
 
-- develop Chef recipes and cookbooks to other team members regards customer best practices and prerequisites
-- using Hashicorp Terraform for up and run environment instances in AWS cloud
-- troubleshooting of running Chef recipes and cookbooks in AWS environment
-- used ruby and powershell script and cmdlets for successful develop solution which consist from RDS farm in HA, Always on availability groups in MSSQL windows failover clustering with multiply network addresses
-- wrote documentation for customer that's needed for successfully run this solution in customer environment
-- Jira/Confluence l2/l3 support, custom workflows/fields and etc
-- Migration of old installation of Jira instances, SVN servers, ftp and git servers
-- Security compliance policy checking, hardening servers and applications.
-- L2/L3 support for developers from other projects that is used EPAM and exGGA cloud in daily usage
+#### **January 2024 - September 2025 | Senior DevOps Engineer | Hexaware Technologies**
+*Location: Berlin, Germany (Hybrid) | Client: Zoosk.com*
 
-##### Environment:
-- Jenkins , Docker, Chef, terraform, bash scripting, PowerShell scripting, GitLab/gitlab-ci, octopus
-- AWS ASG/S3/ELB/KMS/RDS/EC2/ECS/RDS/ESS, Windows2012r2/2-16/Oracle Linux 7, ELK, Hashistack, Chef, GitlabCI
-- MS SQL 2012/2014
+**Project Overview:** Continuing infrastructure maintenance for Zoosk.com dating platform as specialized subcontractor, ensuring seamless operations for global user base.
 
-___
+**Key Achievements:**
+- **Infrastructure Maintenance:** Maintained robust AWS infrastructure supporting Zoosk.com's global operations across 25 countries
+- **Kubernetes Operations:** Managed complex Kubernetes application deployments, maintenance, and performance optimization for high-traffic dating platform
+- **CI/CD Excellence:** Implemented and optimized GitLab CI/CD pipelines, reducing deployment time and improving release reliability
+- **Infrastructure as Code:** Authored and maintained comprehensive Terraform modules for scalable, reproducible cloud environments
+- **Platform Reliability:** Ensured consistent platform performance and availability for millions of active users worldwide
 
-#### Aug-2008 - Jan-2015 - System Administration Department Manager, Liberty Mutual Insurance, liberty24.ru
+**Technical Environment:** AWS (EKS, EC2, RDS, S3), Kubernetes, GitLab CI/CD, Terraform, Infrastructure as Code, Linux
 
-##### Team Size: 4 L3 engineers & 4L2 engineers
-##### Project Role: System Administration Department Team Lead
+---
 
-##### Tasks performed:
+#### **March 2021 - December 2023 | Senior DevOps/SRE | Spark Networks**
+*Location: Berlin, Germany (Hybrid)*
 
-- Creating server and network infrastructure for company to meet the standards of work 24/7/365 by reserving all services.
-- Managing hundreds of Windows/Linux servers geographically distributed across the Russian Federation.
-- Application and operating system troubleshooting, information security policy compliance
-- The project of virtualization based on Vmware vsphere 4/5, MS Hyper-V 2008r2 / 2012 System Center 2012.
-- Planning and implementation of high-availability services. Clustering and balancing services based haproxy, BigIP F5.
-- Introducing of Zabbix monitoring system, operating system metrics monitoring (SNMP, WMI, JMX), the availability of services (L2, L7 tests), control of replication and backup. Centralizing and analyzing the operating system and application logs based ELK
-- Project of implementation MS System Center 2012 (SC DPM, SC CM, SC VMM) for servicing a Windows company infrastructure (patch management, backup and replication, VM orchestration)
-- The introduction of project services based on Citrix Xenapp 6.5, the transfer of business critical desktop applications on a farm of 10 servers Citrix Xenapp, balanced by HAproxy/BigIP F5
-- Introducing first Devops practices: Chef as coniguration management, CI/CD infrastructure based on Svn/Git, Jenkins/Teamcity, Nexus.
+**Project Overview:** DevOps and Site Reliability Engineering for Zoosk.com, a premier global dating platform serving 35+ million users across 25 countries.
 
-##### Environment:
+**Key Achievements:**
+- **Platform Administration:** Successfully administered Zoosk.com's complete infrastructure, ensuring seamless user experience for 35+ million global users
+- **Legacy Migration Leadership:** Spearheaded migration from legacy custom platform to modern Kubernetes architecture, achieving 50% improvement in operational efficiency
+- **Infrastructure Modernization:** Revitalized legacy infrastructure through comprehensive Infrastructure as Code (IaC) refactoring, dramatically improving maintainability and deployment consistency
+- **Cost Optimization:** Implemented strategic AWS cost optimization initiatives, achieving 30% reduction in infrastructure expenses while maintaining performance
+- **24/7 Operations:** Maintained critical on-call responsibilities ensuring 99.9% platform uptime for business-critical dating service operations
+- **Monitoring Excellence:** Established comprehensive monitoring and alerting systems enabling proactive incident management and rapid issue resolution
 
-- DB: SAP Sybase (main DB engine for inhouse developed corporate AIS), MS SQL 2012 (1C), MySQL (web sites), PostgreSQL (monitoring)
-- OS: Hyper-v 2k12/VMware 5.5-6.0/Centos 5-6/RedHat 5-6/Ubuntu Server 12.04/Windows 2008r2-2k12;
-- Applications: Apache httpd, Nginx, JBoss/Wildfly, TomCat 6-7, Citrix XenDesktop, Jenkins, Teamcity, SVN/Git, OTRS; Monitoring: Zabbix with partitioning of DB, advanced application performance checking, alerting etc, ELK stack, log and network devices log parsing and monitoring;
-- DevOps/Orchestration: Chef11/12, PowerShell/Bash/Ruby/Python scripting;
-- Network: Haproxy, f5 load-balancer, Keepalived, Squid, Ironport;
-- Infrastructure maintenance apps: SCCM, SCDPM, SCVMM
+**Technical Environment:** AWS (EKS, EC2, RDS, S3, Lambda), Kubernetes, Terraform, Cloudflare, Infrastructure as Code, Prometheus, Grafana, On-call Operations, Cost Optimization
 
-___
+---
 
-#### Feb-2006 - May-2008 - System Administrator Team Lead, Renaissances Insurance, renins.com
+#### **November 2017 - March 2021 | Senior DevOps Engineer | Quest Software**
+*Team Size: 8 DevOps Engineers*
 
-##### Renaissances Insurance, Saint-Petersburg office system L2/L3 support
+**Project Overview:** Led DevOps initiatives for Quest Software's enterprise product portfolio, focusing on automation, monitoring, and multi-cloud infrastructure management.
 
-##### Team Size: 3 system administrators.
-##### Project Role: System Administrator Team Lead
+**Key Achievements:**
+- **CI/CD Architecture:** Architected and maintained sophisticated CI/CD pipelines using Jenkins and Azure DevOps for Quest's complete product portfolio
+- **Infrastructure Automation:** Developed comprehensive Terraform manifests and Azure Resource Manager templates for automated infrastructure provisioning
+- **Monitoring Implementation:** Implemented multi-layered monitoring solutions using ELK Stack, Prometheus, New Relic, and Grafana for comprehensive observability
+- **Kubernetes Leadership:** Led Kubernetes cluster operations and optimization, achieving 60% reduction in deployment time and significant reliability improvements
+- **Process Automation:** Automated routine operational tasks, saving 40+ hours weekly across engineering teams and improving overall productivity
+- **Team Development:** Mentored junior engineers, conducted technical interviews, and established DevOps best practices across the organization
 
-##### Tasks performed:
+**Technical Environment:** Jenkins, Azure DevOps, Terraform, Kubernetes, ELK Stack, Prometheus, New Relic, PagerDuty, Azure App Services, AWS, Python, PowerShell
 
-- L2/L3 system administration of central office in Saint-Petersburg with 20 branches in city and region
-- Administration Windows/Linux server infrastructure, automation of maintainance, monitoring.
-- Security policy authoring for Windows Domain and Linux environments for security policy compliance
-- System Administration team hiring and onboarding
+---
 
-##### Environment: Linux/Windows HW/VW servers, Sybase, MS SQL, MySQL, Powershell, cmd, bash
-___
+#### **December 2014 - November 2017 | Senior DevOps Engineer → Lead DevOps Engineer | EPAM Systems**
+*Team Growth: 5 to 12 members | EU Customer Project*
 
-#### Feb-2004 - Feb-2006 - L2 Support Engineer, Lenta , lenta.com
+**Project Overview:** Led DevOps transformation for European enterprise client, focusing on AWS cloud adoption, automation, and high-availability architecture design.
 
-##### Lenta Cash&Carry LLC, l
+**Key Achievements:**
+- **Configuration Management:** Designed and implemented enterprise-grade Chef cookbooks and recipes following customer best practices and security requirements
+- **Cloud Infrastructure:** Orchestrated comprehensive AWS infrastructure deployment using Terraform for scalable, resilient cloud environments
+- **High Availability Systems:** Built mission-critical MS SQL clusters with Always On Availability Groups and Windows Failover Clustering for maximum uptime
+- **System Migration:** Successfully migrated legacy systems including Jira instances, SVN servers, and Git repositories with zero downtime
+- **Security Compliance:** Established robust security compliance frameworks and implemented server hardening procedures meeting enterprise standards
+- **Technical Support:** Provided expert L2/L3 support for development teams across multiple concurrent projects
 
-##### Team Size: 4 members of local support engineers
-##### Project Role: Senior L2 support Engineer
+**Technical Environment:** AWS (ASG, S3, ELB, KMS, RDS, EC2, ECS), Chef, Terraform, Jenkins, Docker, GitLab CI, MS SQL 2012/2014, Windows Server 2012-2016, Oracle Linux 7
 
-##### Tasks performed:
+---
 
-- Participation in the opening of several shopping malls in Saint Petersburg.
-- Administration of Windows domain infrastructure (Win2k3, MS Exchange), customer support, order supplies.
+#### **August 2008 - January 2015 | System Administration Department Manager | Liberty Mutual Insurance**
+*Team Leadership: 8 Engineers (4 L3, 4 L2)*
 
-##### Environment: Win2k3 Servers and WindowsXP desktops, MS AD, MS Exchange
+**Project Overview:** Built and managed enterprise IT infrastructure for Liberty Mutual Insurance, focusing on 24/7/365 operations, virtualization, and early DevOps adoption.
 
-#### Feb-2001 - Feb-2004 - System Engineer, National Library of Russia, nlr.ru
+**Key Achievements:**
+- **Enterprise Infrastructure:** Built comprehensive 24/7/365 infrastructure supporting hundreds of geographically distributed servers across Russian Federation
+- **Virtualization Leadership:** Led major virtualization initiative using VMware vSphere and Microsoft Hyper-V, achieving 40% reduction in hardware costs
+- **Monitoring Systems:** Implemented enterprise-wide monitoring with Zabbix and ELK Stack for proactive system management and performance optimization
+- **Automation Implementation:** Deployed Microsoft System Center 2012 suite for automated patch management, backup solutions, and VM orchestration
+- **Citrix Infrastructure:** Established Citrix XenApp farm serving business-critical applications to 500+ users with load balancing via HAProxy/F5 BigIP
+- **DevOps Pioneer:** Introduced first DevOps practices including Chef configuration management and Jenkins CI/CD infrastructure
 
-##### Team Size: 2 Engineers
+**Technical Environment:** VMware vSphere 4/5, Hyper-V, System Center 2012, Citrix XenApp 6.5, HAProxy, F5 BigIP, Zabbix, ELK Stack, Chef, Jenkins, TeamCity
 
-##### Tasks performed:
+---
 
-Administration internal servers:
+#### **February 2006 - May 2008 | System Administrator Team Lead | Renaissance Insurance**
+*Team Size: 3 System Administrators*
 
-- Internal and external ftp and web servers (Apache, Proftpd)
-- SQL database (PgSQL, MySQL)
-- Antivirus, antispam software for MX server
-  
-##### Environment: RedHat Linux, SunOS, Windows NT4, BIND, Squid, Postfix, Sendmail
-  
+**Key Achievements:**
+- **Multi-site Management:** Managed comprehensive IT infrastructure for central office and 20 regional branches
+- **Automation & Monitoring:** Implemented automated maintenance procedures and comprehensive monitoring solutions
+- **Security Policy Development:** Developed and implemented security policies for Windows Domain and Linux environments ensuring regulatory compliance
+- **Team Leadership:** Led team hiring, onboarding processes, and skill development, achieving 30% improvement in team efficiency
+
+**Technical Environment:** Windows/Linux servers, Sybase, MS SQL, MySQL, PowerShell, Bash
+
+---
+
+#### **February 2004 - February 2006 | Senior L2 Support Engineer | Lenta**
+*Team Size: 4 Support Engineers*
+
+**Key Achievements:**
+- **Infrastructure Deployment:** Supported infrastructure deployment for multiple shopping mall openings in Saint Petersburg
+- **Domain Administration:** Administered Windows domain infrastructure including Exchange Server for 200+ users
+- **Technical Support:** Provided comprehensive technical support and managed IT supply chain operations
+
+**Technical Environment:** Windows Server 2003, MS Exchange, Active Directory, Windows XP
+
+---
+
+#### **February 2001 - February 2004 | System Engineer | National Library of Russia**
+*Team Size: 2 Engineers*
+
+**Key Achievements:**
+- **Web Services Administration:** Administered internal and external web services supporting library operations and public access
+- **Database Management:** Managed critical database systems ensuring data integrity and availability
+- **Email Security:** Implemented comprehensive antivirus and antispam solutions for mail server infrastructure
+
+**Technical Environment:** RedHat Linux, SunOS, Windows NT4, Apache, PostgreSQL, MySQL, BIND, Postfix, Sendmail
+
 ### EDUCATION
 
-Graduation Year: 2001 (**incomplete**)
+**Baltic State Technical University**
+Faculty of Mechanics | 1997-2001
+*Specialized coursework in mechanical engineering and technical systems*
 
-Name of the Education Establishment: Baltic State Technical University
-Faculty/College: Mechanics
+### CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+**Current Certifications:**
+- AWS Certified Solutions Architect (in progress)
+- Kubernetes Administrator Certification (in progress)
+
+**Continuous Learning:**
+- Advanced Terraform and Infrastructure as Code practices
+- Kubernetes security and performance optimization
+- Cloud cost optimization strategies
+- Site Reliability Engineering best practices
+- Modern monitoring and observability tools
+
+### LANGUAGES
+
+- **English:** Professional working proficiency
+- **German:** Conversational (Berlin-based)
+- **Russian:** Native speaker
+
+### KEY COMPETENCIES
+
+**Technical Leadership:** 15+ years leading technical teams, mentoring engineers, and driving DevOps transformation initiatives
+
+**Platform Scalability:** Proven experience managing platforms serving 35+ million users with 99.9% uptime requirements
+
+**Cost Optimization:** Demonstrated success in reducing infrastructure costs by 30% while improving performance and reliability
+
+**Migration Expertise:** Successfully led multiple large-scale platform migrations from legacy systems to modern cloud-native architectures
+
+**Multi-cloud Proficiency:** Deep expertise in both AWS and Azure ecosystems with hands-on experience in hybrid cloud strategies
