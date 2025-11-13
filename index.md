@@ -42,7 +42,7 @@ Senior DevOps Engineer and Site Reliability Engineer with 23+ years of progressi
 
 ### PROFESSIONAL EXPERIENCE
 
-#### **January 2024 - Present | Senior DevOps Engineer | Hexaware Technologies**
+#### **January 2024 - September 2025 | Senior DevOps Engineer | Hexaware Technologies**
 *Location: Berlin, Germany (Hybrid) | Client: Zoosk.com*
 
 **Project Overview:** Continuing infrastructure maintenance for Zoosk.com dating platform as specialized subcontractor, ensuring seamless operations for global user base.
@@ -61,7 +61,7 @@ Senior DevOps Engineer and Site Reliability Engineer with 23+ years of progressi
 #### **March 2021 - December 2023 | Senior DevOps/SRE | Spark Networks**
 *Location: Berlin, Germany (Hybrid)*
 
-**Project Overview:** Led DevOps and Site Reliability Engineering for Zoosk.com, a premier global dating platform serving 35+ million users across 25 countries.
+**Project Overview:** DevOps and Site Reliability Engineering for Zoosk.com, a premier global dating platform serving 35+ million users across 25 countries.
 
 **Key Achievements:**
 - **Platform Administration:** Successfully administered Zoosk.com's complete infrastructure, ensuring seamless user experience for 35+ million global users
@@ -71,7 +71,7 @@ Senior DevOps Engineer and Site Reliability Engineer with 23+ years of progressi
 - **24/7 Operations:** Maintained critical on-call responsibilities ensuring 99.9% platform uptime for business-critical dating service operations
 - **Monitoring Excellence:** Established comprehensive monitoring and alerting systems enabling proactive incident management and rapid issue resolution
 
-**Technical Environment:** AWS (EKS, EC2, RDS, S3, Lambda), Kubernetes, Terraform, Infrastructure as Code, Prometheus, Grafana, On-call Operations, Cost Optimization
+**Technical Environment:** AWS (EKS, EC2, RDS, S3, Lambda), Kubernetes, Terraform, Cloudflare, Infrastructure as Code, Prometheus, Grafana, On-call Operations, Cost Optimization
 
 ---
 
