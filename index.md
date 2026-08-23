@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Timur Shafeev
 
 ### Senior DevOps Engineer / Platform Engineer / Infrastructure Lead
