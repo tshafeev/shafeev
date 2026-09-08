@@ -1,0 +1,12 @@
+{
+  "name": "cv-pdf-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Regenerates CV PDFs from Markdown for CI",
+  "dependencies": {
+    "md-to-pdf": "^5.2.5"
+  },
+  "allowScripts": {
+    "puppeteer@25.10.0": true
+  }
+}

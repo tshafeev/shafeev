@@ -1,0 +1,62 @@
+name: Regenerate CV PDFs
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "assets/files/CV_Timur_Shafeev.md"
+      - "assets/files/CV_Timur_Shafeev_RU.md"
+      - ".github/cv-pdf/**"
+      - ".github/workflows/cv-pdf.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: .github/cv-pdf/package-lock.json
+
+      - name: Cache Chromium for Puppeteer
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: puppeteer-${{ runner.os }}-${{ hashFiles('.github/cv-pdf/package-lock.json') }}
+
+      - name: Install PDF tooling
+        working-directory: .github/cv-pdf
+        run: npm ci
+
+      - name: Generate EN CV PDF
+        working-directory: .github/cv-pdf
+        run: >
+          npx md-to-pdf ../../assets/files/CV_Timur_Shafeev.md
+          --stylesheet ./style.css
+          --pdf-options '{"format":"A4","printBackground":true}'
+
+      - name: Generate RU CV PDF
+        working-directory: .github/cv-pdf
+        run: >
+          npx md-to-pdf ../../assets/files/CV_Timur_Shafeev_RU.md
+          --stylesheet ./style.css
+          --pdf-options '{"format":"A4","printBackground":true}'
+
+      - name: Commit regenerated PDFs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/files/CV_Timur_Shafeev.pdf assets/files/CV_Timur_Shafeev_RU.pdf
+          if git diff --staged --quiet; then
+            echo "No PDF changes to commit"
+          else
+            git commit -m "Regenerate CV PDFs from Markdown [skip ci]"
+            git push
+          fi
