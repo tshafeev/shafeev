@@ -15,7 +15,7 @@ description: Senior DevOps/SRE инженер — резюме на русско
 - <a href="/assets/files/CV_Timur_Shafeev_RU.pdf" download>Скачать CV на русском (PDF)</a>
 - <a href="mailto:shafeev@gmail.com">Email: shafeev@gmail.com</a>
 - <a href="https://www.linkedin.com/in/timur-shafeev">LinkedIn Profile</a>
-- **Локация:** Берлин, Германия | **Доступность:** гибрид/удалённо
+- **Локация:** Санкт-Петербург, Россия | **Доступность:** гибрид/удалённо
 
 ### О СЕБЕ
 

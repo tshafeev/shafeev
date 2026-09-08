@@ -12,7 +12,7 @@ lang: en-US
 - <a href="assets/files/CV_Timur_Shafeev.pdf" download>Download this CV as PDF</a>
 - <a href="mailto:shafeev@gmail.com">Email: shafeev@gmail.com</a>
 - <a href="https://www.linkedin.com/in/timur-shafeev">LinkedIn Profile</a>
-- **Location:** Berlin, Germany | **Availability:** Hybrid/Remote
+- **Location:** Saint Petersburg, Russia | **Availability:** Hybrid/Remote
 
 ### PROFESSIONAL SUMMARY
 

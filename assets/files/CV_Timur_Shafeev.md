@@ -2,7 +2,7 @@
 
 **Senior DevOps Engineer / Platform Engineer / Infrastructure Lead**
 
-shafeev@gmail.com · LinkedIn · Berlin, Germany · Remote/Hybrid
+shafeev@gmail.com · LinkedIn · Saint Petersburg, Russia · Remote/Hybrid
 
 ---
 
