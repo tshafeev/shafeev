@@ -187,3 +187,4 @@ Faculty of Mechanics | 1997-2001
 **Migration Expertise:** Led multiple large-scale platform migrations from legacy systems to modern cloud-native architectures
 
 **Multi-cloud Proficiency:** Hands-on expertise across both AWS and Azure ecosystems
+
