@@ -4,8 +4,8 @@ on:
   push:
     branches: [master]
     paths:
-      - "assets/files/CV_Timur_Shafeev.md"
-      - "assets/files/CV_Timur_Shafeev_RU.md"
+      - "index.md"
+      - "ru/index.md"
       - ".github/cv-pdf/**"
       - ".github/workflows/cv-pdf.yml"
   workflow_dispatch: {}
@@ -37,19 +37,11 @@ jobs:
 
       - name: Generate EN CV PDF
         working-directory: .github/cv-pdf
-        run: >
-          npx md-to-pdf ../../assets/files/CV_Timur_Shafeev.md
-          --stylesheet ./style.css
-          --pdf-options '{"format":"A4","printBackground":true}'
-          --launch-options '{"args":["--no-sandbox","--disable-setuid-sandbox"]}'
+        run: node generate.js ../../index.md ../../assets/files/CV_Timur_Shafeev.pdf
 
       - name: Generate RU CV PDF
         working-directory: .github/cv-pdf
-        run: >
-          npx md-to-pdf ../../assets/files/CV_Timur_Shafeev_RU.md
-          --stylesheet ./style.css
-          --pdf-options '{"format":"A4","printBackground":true}'
-          --launch-options '{"args":["--no-sandbox","--disable-setuid-sandbox"]}'
+        run: node generate.js ../../ru/index.md ../../assets/files/CV_Timur_Shafeev_RU.pdf
 
       - name: Commit regenerated PDFs
         run: |
