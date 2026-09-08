@@ -41,6 +41,7 @@ jobs:
           npx md-to-pdf ../../assets/files/CV_Timur_Shafeev.md
           --stylesheet ./style.css
           --pdf-options '{"format":"A4","printBackground":true}'
+          --launch-options '{"args":["--no-sandbox","--disable-setuid-sandbox"]}'
 
       - name: Generate RU CV PDF
         working-directory: .github/cv-pdf
@@ -48,6 +49,7 @@ jobs:
           npx md-to-pdf ../../assets/files/CV_Timur_Shafeev_RU.md
           --stylesheet ./style.css
           --pdf-options '{"format":"A4","printBackground":true}'
+          --launch-options '{"args":["--no-sandbox","--disable-setuid-sandbox"]}'
 
       - name: Commit regenerated PDFs
         run: |
