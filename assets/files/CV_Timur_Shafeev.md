@@ -8,7 +8,7 @@ shafeev@gmail.com · LinkedIn · Saint Petersburg, Russia · Remote/Hybrid
 
 ## Summary
 
-Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale. Deep expertise in AWS and Azure, Kubernetes platform engineering, GitOps-based delivery, and CI/CD automation. Proven track record migrating legacy systems to cloud-native architectures, operating platforms serving 40M+ users across 80+ countries, cutting infrastructure costs by up to 30%, and building high-performing engineering teams.
+Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale. Deep expertise in AWS and Azure, Kubernetes platform engineering, GitOps-based delivery, and CI/CD automation. Proven track record migrating legacy systems to cloud-native architectures, operating platforms across 30+ countries, cutting infrastructure costs by up to 30%, and building high-performing engineering teams.
 
 ---
 
@@ -30,7 +30,7 @@ Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale.
 
 *Jan 2024 – Nov 2025 · Berlin, Germany (Hybrid)*
 
-Subcontractor maintaining AWS infrastructure for Zoosk.com, a global dating platform with 40+ million members across 80+ countries.
+Subcontractor maintaining AWS infrastructure for Zoosk.com, a global dating platform operating across 30+ countries.
 
 - Managed AWS infrastructure (EKS, EC2, RDS, S3) for high-traffic production environment
 - Owned Kubernetes cluster operations: deployments, scaling, and incident response
@@ -44,7 +44,7 @@ Subcontractor maintaining AWS infrastructure for Zoosk.com, a global dating plat
 
 *Mar 2021 – Dec 2023 · Berlin, Germany (Hybrid)*
 
-Led DevOps and SRE for Zoosk.com, a global dating platform with 40+ million members across 80+ countries.
+Led DevOps and SRE for Zoosk.com, a global dating platform operating across 30+ countries.
 
 - Led migration from legacy custom platform to Kubernetes, improving operational efficiency by 50%
 - Introduced GitOps practices with Argo CD, moving deployments to a declarative, Git-driven workflow with automated sync and drift detection

@@ -16,7 +16,7 @@ lang: en-US
 
 ### PROFESSIONAL SUMMARY
 
-Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale. Deep expertise in AWS and Azure, Kubernetes platform engineering, GitOps-based delivery, and CI/CD automation. Proven track record migrating legacy systems to cloud-native architectures, operating platforms serving 40M+ users across 80+ countries, cutting infrastructure costs by up to 30%, and building high-performing engineering teams.
+Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale. Deep expertise in AWS and Azure, Kubernetes platform engineering, GitOps-based delivery, and CI/CD automation. Proven track record migrating legacy systems to cloud-native architectures, operating platforms across 30+ countries, cutting infrastructure costs by up to 30%, and building high-performing engineering teams.
 
 **Key Achievements:** Led platform migration from a legacy custom system to Kubernetes, improving operational efficiency by 50%. Introduced GitOps practices with Argo CD, moving deployments to a declarative, Git-driven workflow. Maintained 99.9% uptime for business-critical services while reducing AWS infrastructure spend by 30%.
 
@@ -55,7 +55,7 @@ Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale.
 #### **January 2024 - November 2025 | Senior DevOps Engineer | Hexaware Technologies**
 *Location: Berlin, Germany (Hybrid) | Client: Zoosk.com*
 
-**Project Overview:** Subcontractor maintaining AWS infrastructure for Zoosk.com, a global dating platform with 40+ million members across 80+ countries.
+**Project Overview:** Subcontractor maintaining AWS infrastructure for Zoosk.com, a global dating platform operating across 30+ countries.
 
 **Key Achievements:**
 - **Infrastructure Ownership:** Managed AWS infrastructure (EKS, EC2, RDS, S3) for a high-traffic production environment
@@ -71,7 +71,7 @@ Senior DevOps/SRE engineer with 20+ years leading cloud infrastructure at scale.
 #### **March 2021 - December 2023 | Senior DevOps / SRE | Spark Networks**
 *Location: Berlin, Germany (Hybrid) | Product: Zoosk.com*
 
-**Project Overview:** Led DevOps and SRE for Zoosk.com, a global dating platform with 40+ million members across 80+ countries.
+**Project Overview:** Led DevOps and SRE for Zoosk.com, a global dating platform operating across 30+ countries.
 
 **Key Achievements:**
 - **Migration Leadership:** Led migration from a legacy custom platform to Kubernetes, improving operational efficiency by 50%
@@ -180,7 +180,7 @@ Faculty of Mechanics | 1997-2001
 
 **Technical Leadership:** 15+ years leading technical teams, mentoring engineers, and driving DevOps transformation initiatives
 
-**Platform Scalability:** Proven experience operating platforms serving 40M+ users across 80+ countries with 99.9% uptime requirements
+**Platform Scalability:** Proven experience operating platforms across 30+ countries with 99.9% uptime requirements
 
 **Cost Optimization:** Demonstrated success reducing infrastructure costs by 30% while improving performance and reliability
 
